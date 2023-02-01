@@ -20,5 +20,5 @@ function verificarIdade() {
   console.log(nome.value);
   console.log(typeof nome.value);
   console.log(idade.value);
-  console.log(typeof idade.value);
+  console.log(typeof idade.value); 
 }

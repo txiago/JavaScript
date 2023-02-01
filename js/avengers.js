@@ -10,6 +10,6 @@ function listaVingadores(){
         var li = document.createElement('li')
         var text = document.createTextNode(a)
         li.appendChild(text)
-        ul.appendChild(li)
+        ul.appendChild(li) 
     })
 }
